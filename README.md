@@ -1,0 +1,2 @@
+# CSBach
+Algorithmic musical composition!
